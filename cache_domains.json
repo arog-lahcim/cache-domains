@@ -1,9 +1,9 @@
 {
 	"cache_domains": [
 		{
-			"name": "pytorch",
-			"description": "Pytorch",
-			"domain_files": ["pytorch.txt"]
+			"name": "dev",
+			"description": "CDN for dev downloads",
+			"domain_files": ["dev.txt"]
 		},
 		{
 			"name": "arenanet",

@@ -1,0 +1,2 @@
+download.pytorch.org
+files.pythonhosted.org
